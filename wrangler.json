@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "yvette-link-backend",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "ba86b86b-edd1-4681-8738-fce6e8aa4b91",
+			"database_name": "d1-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
